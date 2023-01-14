@@ -1,1 +1,2 @@
-master prod
+config:
+  info: master prod
